@@ -1,0 +1,6 @@
+body {
+    background-color: #f0f0f0; /* Przykładowy kolor tła */
+    background-image: url('background.jpg'); /* Przykładowy obraz tła */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
